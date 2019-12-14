@@ -1,4 +1,4 @@
-name: Ruby Gem
+name: Push to Rubygems.org
 
 on:
   pull_request:
