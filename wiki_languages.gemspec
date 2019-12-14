@@ -9,6 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Patryk Ptasinski"]
   spec.email         = ["patryk@ipepe.pl"]
 
+  spec.license = "MIT"
+
   spec.summary       = %q{Get all wiki languages with metadata}
   spec.description   = %q{Small database of languages with their metadata based on wikimedia.org page}
   spec.homepage      = "https://github.com/ipepe/wiki_languages"
